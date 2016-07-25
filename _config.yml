@@ -1,0 +1,14 @@
+layout_spectrum: 0.6743122534826398
+typography_spectrum: 0.687389291357249
+color:
+  brandStrength: 0.6095805114600807
+  lightness: 0.7968698795884848
+  saturation: 0.5488362004980445
+  rhythmicContrast: 0.590327370679006
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: Louisiana
